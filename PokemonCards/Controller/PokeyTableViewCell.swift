@@ -8,6 +8,7 @@
 import UIKit
 
 class PokeyTableViewCell: UITableViewCell {
+    
     @IBOutlet weak var pokeyImageView: UIImageView!
     @IBOutlet weak var nameLabel: UILabel!
     

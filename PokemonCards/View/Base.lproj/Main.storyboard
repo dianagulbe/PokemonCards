@@ -112,7 +112,7 @@
                     <connections>
                         <outlet property="hpLabel" destination="5mh-jn-8bd" id="XoQ-qs-N4D"/>
                         <outlet property="nameLabel" destination="W7R-DJ-2zb" id="6sx-Te-Xjh"/>
-                        <outlet property="pokeyImageView" destination="hf3-HC-1FA" id="TIl-zb-qBq"/>
+                        <outlet property="pokeyImageView" destination="hf3-HC-1FA" id="ji5-G9-lyc"/>
                         <outlet property="subtypLabel" destination="62L-pa-XOm" id="qRH-5O-idF"/>
                         <outlet property="subtypeLabel" destination="Fiz-IB-3Aj" id="nlN-xi-1sY"/>
                         <outlet property="tableViewOutlet" destination="SI1-wm-KmU" id="xcB-SV-tua"/>
