@@ -1,19 +1,20 @@
 //
-//  ViewController.swift
+//  DetailViewController.swift
 //  PokemonCards
 //
-//  Created by diana.gulbe on 06/08/2021.
+//  Created by diana.gulbe on 08/08/2021.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class DetailViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
+    
 
 
 }
-
